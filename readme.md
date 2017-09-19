@@ -15,6 +15,8 @@ I wrote about how I use [Typinator](http://www.ergonis.com/products/typinator/) 
 
 Here you can find the different Sets that I use from Typinator to speed up my writing.
 
+The Sets can be found in [this folder](/sets) and here is their explanation. 
+
 
 1. Word expand
 	- contains single word expansions of words with more than 5-6 characters
